@@ -200,7 +200,7 @@ In ViewController:
 
 All done.  
 
-* By using IDM, you can change data layer obeject or model object very easily by redefine Integration object. Example:  
+* By using IDM, you can change data layer obeject or model object very easily by redefining Integration object. Example:  
 ```UserIntegration: DefaultIntegration<UserData, Users>```  
 ```UserIntegration: DefaultIntegration<OtherDataLayer, OtherModel>```  
 
