@@ -6,8 +6,8 @@ This is a sample which conforms IDM Data Flow.
 
 In MVC application, your view controllers have to working with a lot of data from local, network, ... This causes you much trouble & becomes difficult to manage. Conform IDM Flow will help you make data flow clearer.  
 IDM ~ Integration - Data - Model, they are three layers of this flow.  
-All models will be defined in Model Layer. Data logic (get, submit, save, ...) is by DataLayer responsible. Two these layers is independence with other.  
-Requesting data is responsibility of Integration Layer. A Integration layer will call to data layer & return model in completion.  
+All models will be defined in Model Layer. Working with Data logic (get, submit, save, ...) is DataLayer's responsible. Two these layers is independence with other.  
+Creating & executing a flow is responsibility of Integration Layer. A Integration layer will call to data layer & return model in completion.  
 
 ### How do I get set up? ###
 
