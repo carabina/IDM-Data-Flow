@@ -1,26 +1,23 @@
 //
 //  Extensions.swift
-//  ProjectTemplate
+//  IDMDataFlow
 //
 //  Created by FOLY on 8/15/16.
 //  Copyright © 2016 NGUYEN CHI CONG. All rights reserved.
 //
 
 import Foundation
-import IntegrationLayer
-import SVProgressHUD
 import MBProgressHUD
 import IDMCore
+import IntegrationLayer
 
 extension UIView: CanPresentLoadingView {
     public func presentLoadingView() {
         MBProgressHUD.showHUDAddedTo(self, animated: true)
-        print("loading...")
     }
     
     public func dismissLoadingView() {
         MBProgressHUD.hideHUDForView(self, animated: true)
-        print("dimiss")
     }
 }
 
