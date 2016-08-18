@@ -10,27 +10,27 @@
 		</data>
 		<key>Headers/IDMCore.h</key>
 		<data>
-		pEoT4UZymbx9YNhmV3qr4tDSKAM=
+		RdL99Pk1YGbAasnVuPCUga76f+4=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		JBRo/IG8bYvW3qyGXJRIw73zMQA=
+		3Z39pSs6fXDej6F/CRs35/8/gV8=
 		</data>
 		<key>Modules/IDMCore.swiftmodule/arm.swiftdoc</key>
 		<data>
-		z6JlucrEoWFZE9jS3vYoaHm5ziQ=
+		v0ua/jWG4mhBFLCCaM4HAZMxDjk=
 		</data>
 		<key>Modules/IDMCore.swiftmodule/arm.swiftmodule</key>
 		<data>
-		lOXqjHm5u9xRUcIuCjnwnE5dpFI=
+		CIGQfvh1WhlpoV2+mXWjMDLfOxc=
 		</data>
 		<key>Modules/IDMCore.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		FfZRtS9T96/tUIEaLi2sn3GxjQc=
+		nF+pBNDk+biri3ub1Eto5mKOiDE=
 		</data>
 		<key>Modules/IDMCore.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		ucuobHSE+6R+nLIIO6NIpGLEgiw=
+		Eo4ustJ/qDn/iMFuX/xrsyqdRYo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -54,55 +54,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pEoT4UZymbx9YNhmV3qr4tDSKAM=
+			RdL99Pk1YGbAasnVuPCUga76f+4=
 			</data>
 			<key>hash2</key>
 			<data>
-			551AGAEpb5V563Eiv49UH8FnMgZ7SoX5gNphH6iTr4E=
+			gDFExlRnejLKitX78H3cIAGYi1ac5sn9N9hZSA1vKcw=
 			</data>
 		</dict>
 		<key>Modules/IDMCore.swiftmodule/arm.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			z6JlucrEoWFZE9jS3vYoaHm5ziQ=
+			v0ua/jWG4mhBFLCCaM4HAZMxDjk=
 			</data>
 			<key>hash2</key>
 			<data>
-			72J0uJ0JhZvzwrC/cPAp6EG6ae0ir5o/UsZ/lDQEFcA=
+			uTzJ6K4wfKhInxuuZuSK+gjBlXQOfnwhocDZ2tDLfFE=
 			</data>
 		</dict>
 		<key>Modules/IDMCore.swiftmodule/arm.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			lOXqjHm5u9xRUcIuCjnwnE5dpFI=
+			CIGQfvh1WhlpoV2+mXWjMDLfOxc=
 			</data>
 			<key>hash2</key>
 			<data>
-			8N6rsEUc21lGO6/Jdwtw6LVSIVTsZNZl8zzUOzfyXQQ=
+			/YailiQJmyRcuheXJ3sfGKHx/6dvdQxMj1KlUCFSHfs=
 			</data>
 		</dict>
 		<key>Modules/IDMCore.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FfZRtS9T96/tUIEaLi2sn3GxjQc=
+			nF+pBNDk+biri3ub1Eto5mKOiDE=
 			</data>
 			<key>hash2</key>
 			<data>
-			vWnKvzbqed+s6DJU2G9w+9K9A/NwjKTDtrngk5FIkVA=
+			Wtf/qcOAUAIuB2IzDNs2K73/dkgQIkgYzeEM2sNedAo=
 			</data>
 		</dict>
 		<key>Modules/IDMCore.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ucuobHSE+6R+nLIIO6NIpGLEgiw=
+			Eo4ustJ/qDn/iMFuX/xrsyqdRYo=
 			</data>
 			<key>hash2</key>
 			<data>
-			YVJ8egbdUq8BvyVQWJ8FzFdnc9kTBnSJwd3RS61hxiQ=
+			CN5axHBewPP6/rwkfP0H5tOjdbLnMTf6tPm6uuWaT4s=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

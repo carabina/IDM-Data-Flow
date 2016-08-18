@@ -30,7 +30,7 @@ class UsersViewController: UIViewController , UITableViewDataSource {
         let style = LoadStyle(rawValue: loadStyle)
         switch style! {
         case .DataBinding:
-            dataProvider.doAction(loadingPresenter: self.view, errorAlertPresenter: self, dataBinding: self.listApdater)
+            dataProvider.supply(loadingPresenter: self.view, errorAlertPresenter: self, dataBinding: self.listApdater)
         case .IntegrationCall:
             self.tableView.dataSource = self
             dataProvider.defaultIntegration.prepareCall().onBeginning({

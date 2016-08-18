@@ -1,6 +1,6 @@
 PODS:
   - Alamofire (3.4.1)
-  - IDMCore (0.1.6)
+  - IDMCore (0.1.5)
   - MBProgressHUD (1.0.0)
   - SDWebImage (3.8.1):
     - SDWebImage/Core (= 3.8.1)
@@ -14,7 +14,7 @@ DEPENDENCIES:
 
 SPEC CHECKSUMS:
   Alamofire: 01a82e2f6c0f860ade35534c8dd88be61bdef40c
-  IDMCore: 560ee80553ecd74d8369ea83e100882e4a44ad54
+  IDMCore: 1077cac3bdecb6a37b5a59b4f3fac9223fc86191
   MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
   SDWebImage: 35f9627a3e44b4f292a8a8ce6a531fa488239b91
 

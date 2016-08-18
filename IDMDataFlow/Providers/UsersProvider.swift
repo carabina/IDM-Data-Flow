@@ -10,6 +10,6 @@ import Foundation
 import IDMCore
 import IntegrationLayer
 
-class UsersProvider: SinglePresenter<UserIntegration> {
+class UsersProvider: SingleProvider<UserIntegration> {
     override init() {super.init()}
 }
